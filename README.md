@@ -1,8 +1,8 @@
 # TP Réseau : Mise en œuvre de VLANs et Trunking
 
 ## 1. Auteur
-- **Nom :** [À compléter par l'étudiant]
-- **Prénom :** [À compléter par l'étudiant]
+- **Nom :** YOUSSEF
+- **Prénom :** LAMINE
 
 ## 2. Objectif du TP
 Ce travail pratique a pour objectif de configurer et de vérifier le fonctionnement des VLANs (Virtual Local Area Networks) et des liaisons trunk dans un environnement réseau commuté. En suivant le tutoriel, vous apprendrez à :
